@@ -51,7 +51,7 @@
 
 /*Portfolio*/
 .box {
-    position: absolute;
+    position: relative;
     background-color: #4aaaa5;
     color: white;
     font-family:'Georgia', Times, Times New Roman, serif;
@@ -64,36 +64,9 @@
     margin: 0;
     text-decoration: none;
     padding-top: 5px; 
+    top: 190px;
+    left: 0px;
 }
-
-.box-1 {
-    top: 125px;
-    left: 15px;
-}
-
-.box-2 {
-    top: 350px;
-    left: 15px;
-}
-
-.box-3 {
-    top: 570px;
-    left: 15px;
-}
-
-.box-4 {
-    top: 125px;
-    left: 15px;
-}    
-
-.box-5 {
-    top: 350px;
-    left: 15px;
-}
-
-
-
-
 
 /*Footer*/
 .navbar-fixed-bottom {
